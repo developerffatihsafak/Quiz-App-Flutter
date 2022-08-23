@@ -1,2 +1,2 @@
 # Quiz-App-Flutter
- Quiz-App-Flutter
+Flutter Quiz App
